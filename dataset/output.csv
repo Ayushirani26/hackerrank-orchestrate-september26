@@ -1,251 +1,251 @@
 request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
-request_26,,,,,,,
-request_27,,,,,,,
-request_28,,,,,,,
-request_29,,,,,,,
-request_30,,,,,,,
-request_31,,,,,,,
-request_32,,,,,,,
-request_33,,,,,,,
-request_34,,,,,,,
-request_35,,,,,,,
-request_36,,,,,,,
-request_37,,,,,,,
-request_38,,,,,,,
-request_39,,,,,,,
-request_40,,,,,,,
-request_41,,,,,,,
-request_42,,,,,,,
-request_43,,,,,,,
-request_44,,,,,,,
-request_45,,,,,,,
-request_46,,,,,,,
-request_47,,,,,,,
-request_48,,,,,,,
-request_49,,,,,,,
-request_50,,,,,,,
-request_51,,,,,,,
-request_52,,,,,,,
-request_53,,,,,,,
-request_54,,,,,,,
-request_55,,,,,,,
-request_56,,,,,,,
-request_57,,,,,,,
-request_58,,,,,,,
-request_59,,,,,,,
-request_60,,,,,,,
-request_61,,,,,,,
-request_62,,,,,,,
-request_63,,,,,,,
-request_64,,,,,,,
-request_65,,,,,,,
-request_66,,,,,,,
-request_67,,,,,,,
-request_68,,,,,,,
-request_69,,,,,,,
-request_70,,,,,,,
-request_71,,,,,,,
-request_72,,,,,,,
-request_73,,,,,,,
-request_74,,,,,,,
-request_75,,,,,,,
-request_76,,,,,,,
-request_77,,,,,,,
-request_78,,,,,,,
-request_79,,,,,,,
-request_80,,,,,,,
-request_81,,,,,,,
-request_82,,,,,,,
-request_83,,,,,,,
-request_84,,,,,,,
-request_85,,,,,,,
-request_86,,,,,,,
-request_87,,,,,,,
-request_88,,,,,,,
-request_89,,,,,,,
-request_90,,,,,,,
-request_91,,,,,,,
-request_92,,,,,,,
-request_93,,,,,,,
-request_94,,,,,,,
-request_95,,,,,,,
-request_96,,,,,,,
-request_97,,,,,,,
-request_98,,,,,,,
-request_99,,,,,,,
-request_100,,,,,,,
-request_101,,,,,,,
-request_102,,,,,,,
-request_103,,,,,,,
-request_104,,,,,,,
-request_105,,,,,,,
-request_106,,,,,,,
-request_107,,,,,,,
-request_108,,,,,,,
-request_109,,,,,,,
-request_110,,,,,,,
-request_111,,,,,,,
-request_112,,,,,,,
-request_113,,,,,,,
-request_114,,,,,,,
-request_115,,,,,,,
-request_116,,,,,,,
-request_117,,,,,,,
-request_118,,,,,,,
-request_119,,,,,,,
-request_120,,,,,,,
-request_121,,,,,,,
-request_122,,,,,,,
-request_123,,,,,,,
-request_124,,,,,,,
-request_125,,,,,,,
-request_126,,,,,,,
-request_127,,,,,,,
-request_128,,,,,,,
-request_129,,,,,,,
-request_130,,,,,,,
-request_131,,,,,,,
-request_132,,,,,,,
-request_133,,,,,,,
-request_134,,,,,,,
-request_135,,,,,,,
-request_136,,,,,,,
-request_137,,,,,,,
-request_138,,,,,,,
-request_139,,,,,,,
-request_140,,,,,,,
-request_141,,,,,,,
-request_142,,,,,,,
-request_143,,,,,,,
-request_144,,,,,,,
-request_145,,,,,,,
-request_146,,,,,,,
-request_147,,,,,,,
-request_148,,,,,,,
-request_149,,,,,,,
-request_150,,,,,,,
-request_151,,,,,,,
-request_152,,,,,,,
-request_153,,,,,,,
-request_154,,,,,,,
-request_155,,,,,,,
-request_156,,,,,,,
-request_157,,,,,,,
-request_158,,,,,,,
-request_159,,,,,,,
-request_160,,,,,,,
-request_161,,,,,,,
-request_162,,,,,,,
-request_163,,,,,,,
-request_164,,,,,,,
-request_165,,,,,,,
-request_166,,,,,,,
-request_167,,,,,,,
-request_168,,,,,,,
-request_169,,,,,,,
-request_170,,,,,,,
-request_171,,,,,,,
-request_172,,,,,,,
-request_173,,,,,,,
-request_174,,,,,,,
-request_175,,,,,,,
-request_176,,,,,,,
-request_177,,,,,,,
-request_178,,,,,,,
-request_179,,,,,,,
-request_180,,,,,,,
-request_181,,,,,,,
-request_182,,,,,,,
-request_183,,,,,,,
-request_184,,,,,,,
-request_185,,,,,,,
-request_186,,,,,,,
-request_187,,,,,,,
-request_188,,,,,,,
-request_189,,,,,,,
-request_190,,,,,,,
-request_191,,,,,,,
-request_192,,,,,,,
-request_193,,,,,,,
-request_194,,,,,,,
-request_195,,,,,,,
-request_196,,,,,,,
-request_197,,,,,,,
-request_198,,,,,,,
-request_199,,,,,,,
-request_200,,,,,,,
-request_201,,,,,,,
-request_202,,,,,,,
-request_203,,,,,,,
-request_204,,,,,,,
-request_205,,,,,,,
-request_206,,,,,,,
-request_207,,,,,,,
-request_208,,,,,,,
-request_209,,,,,,,
-request_210,,,,,,,
-request_211,,,,,,,
-request_212,,,,,,,
-request_213,,,,,,,
-request_214,,,,,,,
-request_215,,,,,,,
-request_216,,,,,,,
-request_217,,,,,,,
-request_218,,,,,,,
-request_219,,,,,,,
-request_220,,,,,,,
-request_221,,,,,,,
-request_222,,,,,,,
-request_223,,,,,,,
-request_224,,,,,,,
-request_225,,,,,,,
-request_226,,,,,,,
-request_227,,,,,,,
-request_228,,,,,,,
-request_229,,,,,,,
-request_230,,,,,,,
-request_231,,,,,,,
-request_232,,,,,,,
-request_233,,,,,,,
-request_234,,,,,,,
-request_235,,,,,,,
-request_236,,,,,,,
-request_237,,,,,,,
-request_238,,,,,,,
-request_239,,,,,,,
-request_240,,,,,,,
-request_241,,,,,,,
-request_242,,,,,,,
-request_243,,,,,,,
-request_244,,,,,,,
-request_245,,,,,,,
-request_246,,,,,,,
-request_247,,,,,,,
-request_248,,,,,,,
-request_249,,,,,,,
-request_250,,,,,,,
-request_251,,,,,,,
-request_252,,,,,,,
-request_253,,,,,,,
-request_254,,,,,,,
-request_255,,,,,,,
-request_256,,,,,,,
-request_257,,,,,,,
-request_258,,,,,,,
-request_259,,,,,,,
-request_260,,,,,,,
-request_261,,,,,,,
-request_262,,,,,,,
-request_263,,,,,,,
-request_264,,,,,,,
-request_265,,,,,,,
-request_266,,,,,,,
-request_267,,,,,,,
-request_268,,,,,,,
-request_269,,,,,,,
-request_270,,,,,,,
-request_271,,,,,,,
-request_272,,,,,,,
-request_273,,,,,,,
-request_274,,,,,,,
-request_275,,,,,,,
+request_26,15656000.0,not_affordable,not_recommended,none,2025-08-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_27,6670.0,not_affordable,not_recommended,none,2026-07-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_28,689.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_29,51524.0,not_affordable,not_recommended,none,2025-11-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_30,775.2,not_affordable,not_recommended,none,2026-04-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_31,13840360.0,not_affordable,not_recommended,none,2024-09-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_32,33305.8,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_33,65180.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_34,129400.0,not_affordable,not_recommended,none,2024-12-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_35,125130.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_36,1446.6,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_37,12068800.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_38,379.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_39,203105.0,not_affordable,not_recommended,none,2026-04-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_40,894.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_41,24809250.0,not_affordable,not_recommended,none,2025-11-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_42,52100.0,affordable_now,full_payment,2026-01-05:52100.00,2026-01-05,none,Full payment of 52100.00 is safe on request date while maintaining minimum balance.
+request_43,15242750.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_44,79390.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_45,8833100.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_46,49450.0,not_affordable,not_recommended,none,2024-12-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_47,38114000.0,not_affordable,not_recommended,none,2025-05-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_48,45700.0,affordable_now,full_payment,2026-07-25:45700.00,2026-07-25,none,Full payment of 45700.00 is safe on request date while maintaining minimum balance.
+request_49,20228793.34,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_50,43900.0,not_affordable,not_recommended,none,2025-08-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_51,2191000.0,not_affordable,not_recommended,none,2026-01-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_52,28870.0,not_affordable,not_recommended,none,2024-06-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_53,1423.42,affordable_with_plan,installments,2025-11-07:124.61|2025-12-07:124.61|2026-01-06:124.61|2026-02-05:124.61|2026-03-07:124.61|2026-04-06:124.61|2026-05-06:124.61|2026-06-05:124.61|2026-07-05:124.61|2026-08-04:124.61|2026-09-03:124.61|2026-10-03:124.61|2026-11-02:124.61|2026-12-02:124.61|2027-01-01:124.61,,none,Installment plan selected safely completing the request.
+request_54,16581.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_55,190041.19,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_56,881.56,not_affordable,not_recommended,none,2025-02-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_57,21214.6,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_58,16226000.0,affordable_now,full_payment,2024-12-07:16226000.00,2024-12-07,none,Full payment of 16226000.00 is safe on request date while maintaining minimum balance.
+request_59,140600.0,not_affordable,not_recommended,none,2025-05-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,none,Full payment of 199.89 is safe on request date while maintaining minimum balance.
+request_61,29062.0,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Installment plan selected safely completing the request.
+request_62,404.23,not_affordable,not_recommended,none,2025-08-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_63,98295.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_64,62473.01,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_65,13024.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_66,22200.0,not_affordable,not_recommended,none,2026-04-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_67,792.54,not_affordable,not_recommended,none,2024-09-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_68,2091.6,not_affordable,not_recommended,none,2025-02-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_69,529.1,not_affordable,not_recommended,none,2026-01-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_70,93360.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_71,7485050.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_72,11330.0,affordable_now,full_payment,2026-07-05:11330.00,2026-07-05,none,Full payment of 11330.00 is safe on request date while maintaining minimum balance.
+request_73,71400.0,not_affordable,not_recommended,none,2023-01-20,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_74,5010.0,not_affordable,not_recommended,none,2025-08-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_75,28270.0,not_affordable,not_recommended,none,2026-04-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_76,1538.8,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_77,60700.0,affordable_now,full_payment,2025-11-05:60700.00,2025-11-05,none,Full payment of 60700.00 is safe on request date while maintaining minimum balance.
+request_78,50200.0,not_affordable,not_recommended,none,2025-10-02,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_79,1104.08,affordable_with_plan,partial_payment,2024-09-04:1104.08|2024-09-15:1047.52,2024-09-15,none,"Partial payment recommended: pay safe amount 1104.08 today, pay remaining 1047.52 on 2024-09-15."
+request_80,158825.0,affordable_with_plan,installments,2025-02-20:15950.00|2025-03-22:15950.00|2025-04-21:15950.00|2025-05-21:15950.00|2025-06-20:15950.00|2025-07-20:15950.00|2025-08-19:15950.00|2025-09-18:15950.00|2025-10-18:15950.00|2025-11-17:15950.00|2025-12-17:15950.00|2026-01-16:15950.00|2026-02-15:15950.00|2026-03-17:15950.00|2026-04-16:15950.00,,none,Installment plan selected safely completing the request.
+request_81,2076.0,not_affordable,not_recommended,none,2026-07-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_82,1102.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_83,31130.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_84,62645.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_85,2422120.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_86,46300.0,not_affordable,not_recommended,none,2025-08-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_87,92850.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_88,15557.89,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_89,13756000.0,not_affordable,not_recommended,none,2025-11-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_90,2560.0,not_affordable,not_recommended,none,2026-07-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_91,1927.2,not_affordable,not_recommended,none,2024-09-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_92,34034.0,affordable_now,full_payment,2025-02-05:34034.00,2025-02-05,none,Full payment of 34034.00 is safe on request date while maintaining minimum balance.
+request_93,1729.2,not_affordable,not_recommended,none,2026-04-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_94,572.0,affordable_now,full_payment,2024-12-04:572.00,2024-12-04,none,Full payment of 572.00 is safe on request date while maintaining minimum balance.
+request_95,137865.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_96,90200.0,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-03,none,Installment plan selected safely completing the request.
+request_97,8865.89,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-03-15,none,Installment plan selected safely completing the request.
+request_98,17244.7,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_99,18062.0,affordable_now,full_payment,2026-07-04:18062.00,2026-07-04,none,Full payment of 18062.00 is safe on request date while maintaining minimum balance.
+request_100,35863.53,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Installment plan selected safely completing the request.
+request_101,143500.0,not_affordable,not_recommended,none,2025-11-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_102,1716.0,not_affordable,not_recommended,none,2026-04-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_103,43249.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_104,17204.0,not_affordable,not_recommended,none,2025-02-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_105,53500.0,not_affordable,not_recommended,none,2026-06-08,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_106,1401.7,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_107,2534.4,not_affordable,not_recommended,none,2025-05-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_108,7836.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_109,1276.46,not_affordable,not_recommended,none,2024-03-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_110,22352.0,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Installment plan selected safely completing the request.
+request_111,16625000.0,not_affordable,not_recommended,none,2026-04-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,Full payment of 271.70 is safe on request date while maintaining minimum balance.
+request_113,36500.0,not_affordable,not_recommended,none,2026-09-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_114,65300.0,affordable_now,full_payment,2026-01-04:65300.00,2026-01-04,none,Full payment of 65300.00 is safe on request date while maintaining minimum balance.
+request_115,27135.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_116,58075.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_117,880.0,affordable_now,full_payment,2026-07-05:880.00,2026-07-05,none,Full payment of 880.00 is safe on request date while maintaining minimum balance.
+request_118,738.1,not_affordable,not_recommended,none,2024-12-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_119,130901.01,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_120,7714000.0,affordable_now,full_payment,2026-04-06:7714000.00,2026-04-06,none,Full payment of 7714000.00 is safe on request date while maintaining minimum balance.
+request_121,633.6,not_affordable,not_recommended,none,2024-03-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_122,20558000.0,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Installment plan selected safely completing the request.
+request_123,4076000.0,not_affordable,not_recommended,none,2026-01-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_124,2109.56,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-06-15,none,Installment plan selected safely completing the request.
+request_125,6468.0,affordable_now,full_payment,2025-11-06:6468.00,2025-11-06,none,Full payment of 6468.00 is safe on request date while maintaining minimum balance.
+request_126,159600.0,not_affordable,not_recommended,none,2026-07-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_127,23980.0,affordable_now,full_payment,2024-09-05:23980.00,2024-09-05,none,Full payment of 23980.00 is safe on request date while maintaining minimum balance.
+request_128,25168.0,affordable_now,full_payment,2025-02-07:25168.00,2025-02-07,none,Full payment of 25168.00 is safe on request date while maintaining minimum balance.
+request_129,288.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_130,917.46,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_131,1855.2,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-03,none,Installment plan selected safely completing the request.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,Full payment of 379.86 is safe on request date while maintaining minimum balance.
+request_133,15770000.0,not_affordable,not_recommended,none,2024-03-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_134,12118200.0,affordable_later,wait,2025-08-15:21831000.00,2025-08-15,none,Wait until 2025-08-15 to make full payment safely without breaching minimum balance.
+request_135,304.8,not_affordable,not_recommended,none,2026-07-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_136,560.4,not_affordable,not_recommended,none,2024-06-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_137,67960.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_138,1256.94,not_affordable,not_recommended,none,2026-04-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_139,2267.84,not_affordable,not_recommended,none,2024-09-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_140,13079.0,affordable_with_plan,installments,2025-02-09:3193.96|2025-03-09:3193.96|2025-04-06:3193.96|2025-05-04:3193.96|2025-06-01:3193.96|2025-06-29:3193.96|2025-07-27:3193.96|2025-08-24:3193.96|2025-09-21:3193.96|2025-10-19:3193.96|2025-11-16:3193.96|2025-12-14:3193.96|2026-01-11:3193.96|2026-02-08:3193.96|2026-03-08:3193.96|2026-04-05:3193.96|2026-05-03:3193.96|2026-05-31:3193.96|2026-06-28:3193.96|2026-07-26:3193.96|2026-08-23:3193.96|2026-09-20:3193.96|2026-10-18:3193.96|2026-11-15:3193.96,,none,Installment plan selected safely completing the request.
+request_141,55245.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,Full payment of 1263.60 is safe on request date while maintaining minimum balance.
+request_143,8811.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Full payment of 233.34 is safe on request date while maintaining minimum balance.
+request_145,105613.66,affordable_with_plan,installments,2024-03-06:12215.81|2024-04-03:12215.81|2024-05-01:12215.81|2024-05-29:12215.81|2024-06-26:12215.81|2024-07-24:12215.81|2024-08-21:12215.81|2024-09-18:12215.81|2024-10-16:12215.81|2024-11-13:12215.81|2024-12-11:12215.81|2025-01-08:12215.81|2025-02-05:12215.81|2025-03-05:12215.81|2025-04-02:12215.81|2025-04-30:12215.81|2025-05-28:12215.81|2025-06-25:12215.81|2025-07-23:12215.81|2025-08-20:12215.81|2025-09-17:12215.81,,none,Installment plan selected safely completing the request.
+request_146,81465.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_147,741.53,affordable_with_plan,installments,2026-04-12:71.55|2026-05-13:71.55|2026-06-13:71.55|2026-07-14:71.55|2026-08-14:71.55|2026-09-14:71.55|2026-10-15:71.55|2026-11-15:71.55|2026-12-16:71.55|2027-01-16:71.55|2027-02-16:71.55|2027-03-19:71.55|2027-04-19:71.55|2027-05-20:71.55|2027-06-20:71.55|2027-07-21:71.55|2027-08-21:71.55|2027-09-21:71.55,,none,Installment plan selected safely completing the request.
+request_148,13181.08,affordable_with_plan,installments,2024-06-21:1249.79|2024-07-19:1249.79|2024-08-16:1249.79|2024-09-13:1249.79|2024-10-11:1249.79|2024-11-08:1249.79|2024-12-06:1249.79|2025-01-03:1249.79|2025-01-31:1249.79|2025-02-28:1249.79|2025-03-28:1249.79|2025-04-25:1249.79|2025-05-23:1249.79|2025-06-20:1249.79|2025-07-18:1249.79|2025-08-15:1249.79|2025-09-12:1249.79|2025-10-10:1249.79|2025-11-07:1249.79|2025-12-05:1249.79|2026-01-02:1249.79,,none,Installment plan selected safely completing the request.
+request_149,36652.0,not_affordable,not_recommended,none,2025-11-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_150,496.1,not_affordable,not_recommended,none,2026-01-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_151,26999000.0,affordable_now,full_payment,2024-09-03:26999000.00,2024-09-03,none,Full payment of 26999000.00 is safe on request date while maintaining minimum balance.
+request_152,13882.0,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-05,none,Installment plan selected safely completing the request.
+request_153,503.6,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Installment plan selected safely completing the request.
+request_155,112500.0,affordable_now,full_payment,2025-05-06:112500.00,2025-05-06,none,Full payment of 112500.00 is safe on request date while maintaining minimum balance.
+request_156,15205.3,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_157,10091850.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_158,242600.0,not_affordable,not_recommended,none,2025-08-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_159,13398.0,not_affordable,not_recommended,none,2026-01-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_160,944.61,affordable_with_plan,installments,2024-06-20:70.03|2024-07-18:70.03|2024-08-15:70.03|2024-09-12:70.03|2024-10-10:70.03|2024-11-07:70.03|2024-12-05:70.03|2025-01-02:70.03|2025-01-30:70.03|2025-02-27:70.03|2025-03-27:70.03|2025-04-24:70.03|2025-05-22:70.03|2025-06-19:70.03|2025-07-17:70.03|2025-08-14:70.03|2025-09-11:70.03|2025-10-09:70.03|2025-11-06:70.03|2025-12-04:70.03|2026-01-01:70.03,,none,Installment plan selected safely completing the request.
+request_161,18297950.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_162,10446200.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_163,19304000.0,not_affordable,not_recommended,none,2024-09-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_164,27018000.0,not_affordable,not_recommended,none,2025-02-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_165,80600.0,affordable_now,full_payment,2026-04-06:80600.00,2026-04-06,none,Full payment of 80600.00 is safe on request date while maintaining minimum balance.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Installment plan selected safely completing the request.
+request_167,43802.0,not_affordable,not_recommended,none,2025-05-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_168,49380.0,affordable_with_plan,partial_payment,2026-01-07:49380.00|2026-01-07:0.00,2026-01-07,none,"Partial payment recommended: pay safe amount 49380.00 today, pay remaining 0.00 on 2026-01-07."
+request_169,41976.0,not_affordable,not_recommended,none,2024-03-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_170,36936000.0,not_affordable,not_recommended,none,2025-08-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_171,310.65,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_172,10200.0,not_affordable,not_recommended,none,2024-06-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_173,83190.53,affordable_with_plan,installments,2025-11-07:8286.67|2025-12-07:8286.67|2026-01-06:8286.67|2026-02-05:8286.67|2026-03-07:8286.67|2026-04-06:8286.67|2026-05-06:8286.67|2026-06-05:8286.67|2026-07-05:8286.67|2026-08-04:8286.67|2026-09-03:8286.67|2026-10-03:8286.67|2026-11-02:8286.67|2026-12-02:8286.67|2027-01-01:8286.67,,none,Installment plan selected safely completing the request.
+request_174,1146.2,not_affordable,not_recommended,none,2026-04-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,Full payment of 2346.30 is safe on request date while maintaining minimum balance.
+request_176,686.95,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,Full payment of 1017.60 is safe on request date while maintaining minimum balance.
+request_178,2938.1,not_affordable,not_recommended,none,2024-12-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_179,37957250.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_180,66500.0,not_affordable,not_recommended,none,2026-07-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_181,1362.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_182,65714.0,not_affordable,not_recommended,none,2025-08-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_183,26866000.0,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-07,none,Installment plan selected safely completing the request.
+request_184,52360.0,affordable_with_plan,installments,2024-06-18:14154.38|2024-07-16:14154.38|2024-08-13:14154.38|2024-09-10:14154.38|2024-10-08:14154.38|2024-11-05:14154.38|2024-12-03:14154.38|2024-12-31:14154.38|2025-01-28:14154.38|2025-02-25:14154.38|2025-03-25:14154.38|2025-04-22:14154.38|2025-05-20:14154.38|2025-06-17:14154.38|2025-07-15:14154.38|2025-08-12:14154.38|2025-09-09:14154.38|2025-10-07:14154.38|2025-11-04:14154.38|2025-12-02:14154.38|2025-12-30:14154.38,,none,Installment plan selected safely completing the request.
+request_185,783.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_186,22863.5,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_187,67435.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_188,585.3,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_189,488.4,not_affordable,not_recommended,none,2026-07-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_190,1555.8,affordable_later,wait,2024-12-15:2557.50,2024-12-15,none,Wait until 2024-12-15 to make full payment safely without breaching minimum balance.
+request_191,664.4,not_affordable,not_recommended,none,2025-05-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_192,384.8,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_193,310.62,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_194,95030.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_195,1170.4,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-06,none,Installment plan selected safely completing the request.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Full payment of 762.30 is safe on request date while maintaining minimum balance.
+request_197,50939000.0,not_affordable,not_recommended,none,2025-11-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_198,185800.0,affordable_now,full_payment,2026-07-07:185800.00,2026-07-07,none,Full payment of 185800.00 is safe on request date while maintaining minimum balance.
+request_199,23674000.0,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Installment plan selected safely completing the request.
+request_200,21717000.0,not_affordable,not_recommended,none,2025-02-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_201,23997000.0,not_affordable,not_recommended,none,2026-04-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_202,123900.0,affordable_now,full_payment,2024-12-05:123900.00,2024-12-05,none,Full payment of 123900.00 is safe on request date while maintaining minimum balance.
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Installment plan selected safely completing the request.
+request_204,588.74,not_affordable,not_recommended,none,2026-01-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_205,10621000.0,affordable_now,full_payment,2024-03-06:10621000.00,2024-03-06,none,Full payment of 10621000.00 is safe on request date while maintaining minimum balance.
+request_206,1404.7,not_affordable,not_recommended,none,2025-08-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_207,11830.0,not_affordable,not_recommended,none,2026-07-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_208,4413000.0,affordable_now,full_payment,2024-06-07:4413000.00,2024-06-07,none,Full payment of 4413000.00 is safe on request date while maintaining minimum balance.
+request_209,8625.1,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_210,1360.02,not_affordable,not_recommended,none,2026-04-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_211,1227.89,not_affordable,not_recommended,none,2024-09-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_212,22344000.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_213,3362.4,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Installment plan selected safely completing the request.
+request_214,69750.0,not_affordable,not_recommended,none,2024-12-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_215,29986.0,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Installment plan selected safely completing the request.
+request_216,1166.8,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_217,31601.97,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,Installment plan selected safely completing the request.
+request_218,37942414.8,not_affordable,not_recommended,none,2025-08-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_219,1673.1,affordable_with_plan,installments,2026-04-04:1673.10,2026-04-04,none,Installment plan selected safely completing the request.
+request_220,387.32,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_221,109800.0,affordable_now,full_payment,2025-11-03:109800.00,2025-11-03,none,Full payment of 109800.00 is safe on request date while maintaining minimum balance.
+request_222,34078.0,not_affordable,not_recommended,none,2026-01-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,Full payment of 898.70 is safe on request date while maintaining minimum balance.
+request_224,10327000.0,not_affordable,not_recommended,none,2025-02-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_225,18120459.6,affordable_with_plan,installments,2026-07-06:1397070.00|2026-08-06:1397070.00|2026-09-06:1397070.00|2026-10-07:1397070.00|2026-11-07:1397070.00|2026-12-08:1397070.00|2027-01-08:1397070.00|2027-02-08:1397070.00|2027-03-11:1397070.00|2027-04-11:1397070.00|2027-05-12:1397070.00|2027-06-12:1397070.00|2027-07-13:1397070.00|2027-08-13:1397070.00|2027-09-13:1397070.00|2027-10-14:1397070.00|2027-11-14:1397070.00|2027-12-15:1397070.00,,none,Installment plan selected safely completing the request.
+request_226,157000.0,affordable_now,full_payment,2024-12-03:157000.00,2024-12-03,none,Full payment of 157000.00 is safe on request date while maintaining minimum balance.
+request_227,42755.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_228,10557350.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_229,800.52,affordable_with_plan,installments,2024-03-04:85.79|2024-04-01:85.79|2024-04-29:85.79|2024-05-27:85.79|2024-06-24:85.79|2024-07-22:85.79|2024-08-19:85.79|2024-09-16:85.79|2024-10-14:85.79|2024-11-11:85.79|2024-12-09:85.79|2025-01-06:85.79|2025-02-03:85.79|2025-03-03:85.79|2025-03-31:85.79|2025-04-28:85.79|2025-05-26:85.79|2025-06-23:85.79|2025-07-21:85.79|2025-08-18:85.79|2025-09-15:85.79,,none,Installment plan selected safely completing the request.
+request_230,3537.6,not_affordable,not_recommended,none,2025-08-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_231,35706.0,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,Installment plan selected safely completing the request.
+request_232,1869.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_233,6241000.0,not_affordable,not_recommended,none,2025-11-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_234,574.25,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_235,967.2,not_affordable,not_recommended,none,2024-09-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_236,14404850.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_237,23826000.0,affordable_now,full_payment,2026-04-05:23826000.00,2026-04-05,none,Full payment of 23826000.00 is safe on request date while maintaining minimum balance.
+request_238,663.6,not_affordable,not_recommended,none,2024-12-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_239,642.0,not_affordable,not_recommended,none,2025-05-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_240,39920.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_241,21052000.0,not_affordable,not_recommended,none,2024-03-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_242,437.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_243,17468.0,affordable_now,full_payment,2026-07-07:17468.00,2026-07-07,none,Full payment of 17468.00 is safe on request date while maintaining minimum balance.
+request_244,49918.0,not_affordable,not_recommended,none,2024-06-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_245,65760.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_246,64086.0,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Installment plan selected safely completing the request.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Full payment of 1059.30 is safe on request date while maintaining minimum balance.
+request_248,1507.36,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_249,342.4,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_250,28820.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_252,10098500.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_253,2335.57,affordable_with_plan,installments,2024-03-07:159.59|2024-04-04:159.59|2024-05-02:159.59|2024-05-30:159.59|2024-06-27:159.59|2024-07-25:159.59|2024-08-22:159.59|2024-09-19:159.59|2024-10-17:159.59|2024-11-14:159.59|2024-12-12:159.59|2025-01-09:159.59|2025-02-06:159.59|2025-03-06:159.59|2025-04-03:159.59|2025-05-01:159.59|2025-05-29:159.59|2025-06-26:159.59|2025-07-24:159.59|2025-08-21:159.59|2025-09-18:159.59,,none,Installment plan selected safely completing the request.
+request_254,1759.6,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_255,3345000.0,not_affordable,not_recommended,none,2026-04-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_256,218700.0,affordable_with_plan,installments,2024-06-03:218700.00,2024-06-03,none,Installment plan selected safely completing the request.
+request_257,1085.2,not_affordable,not_recommended,none,2025-11-15,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_258,1113.6,not_affordable,not_recommended,none,2026-01-07,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_259,669.3,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_260,15059400.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,Full payment of 1830.40 is safe on request date while maintaining minimum balance.
+request_262,9236000.0,not_affordable,not_recommended,none,2024-12-05,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_263,14718.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_264,44875.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_265,45970.0,not_affordable,not_recommended,none,2024-03-06,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_266,935.0,not_affordable,not_recommended,none,2025-08-03,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_267,1925.0,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-05,none,Installment plan selected safely completing the request.
+request_268,1512.52,affordable_with_plan,installments,2024-06-21:136.35|2024-07-19:136.35|2024-08-16:136.35|2024-09-13:136.35|2024-10-11:136.35|2024-11-08:136.35|2024-12-06:136.35|2025-01-03:136.35|2025-01-31:136.35|2025-02-28:136.35|2025-03-28:136.35|2025-04-25:136.35|2025-05-23:136.35|2025-06-20:136.35|2025-07-18:136.35|2025-08-15:136.35|2025-09-12:136.35|2025-10-10:136.35|2025-11-07:136.35|2025-12-05:136.35|2026-01-02:136.35,,none,Installment plan selected safely completing the request.
+request_269,15490.0,not_affordable,not_recommended,none,2025-11-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_270,535.4,affordable_with_plan,installments,2026-07-09:191.82|2026-08-09:191.82|2026-09-09:191.82|2026-10-10:191.82|2026-11-10:191.82|2026-12-11:191.82|2027-01-11:191.82|2027-02-11:191.82|2027-03-14:191.82|2027-04-14:191.82|2027-05-15:191.82|2027-06-15:191.82|2027-07-16:191.82|2027-08-16:191.82|2027-09-16:191.82|2027-10-17:191.82|2027-11-17:191.82|2027-12-18:191.82,,none,Installment plan selected safely completing the request.
+request_271,84760.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_272,8815924.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_273,13372200.0,not_affordable,not_recommended,none,,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_274,2713.7,not_affordable,not_recommended,none,2024-12-04,none,Request cannot be safely completed by desired date while maintaining minimum balance.
+request_275,15884000.0,affordable_now,full_payment,2025-05-06:15884000.00,2025-05-06,none,Full payment of 15884000.00 is safe on request date while maintaining minimum balance.
